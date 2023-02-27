@@ -21,3 +21,6 @@ https://app.powerbi.com/view?r=eyJrIjoiYjI3YTNhYTEtOTFmMS00MDk1LThmYWItMjcwYmVlZ
 
 Parcial:
 https://app.powerbi.com/view?r=eyJrIjoiNTA0YjZlN2EtODc5NS00NmY5LWI1YzctNjczZGFkMjE2MzE4IiwidCI6IjRkZDEzM2ZkLWNhMmEtNDA5OC1hZTkxLTBlYWEwYzU4MjNiOCIsImMiOjR9&pageName=ReportSection
+
+DashboardCursoPrincipiante:
+https://app.powerbi.com/view?r=eyJrIjoiNTY5ZTBlNzktNzg2OC00N2U4LTllMDQtODgyMWEwYTEwMDBhIiwidCI6IjRkZDEzM2ZkLWNhMmEtNDA5OC1hZTkxLTBlYWEwYzU4MjNiOCIsImMiOjR9
